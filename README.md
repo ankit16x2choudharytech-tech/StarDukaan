@@ -349,21 +349,7 @@ If you find a bug or have a feature suggestion, you can open an issue in this re
 
 ---
 
-## 👨‍💻 Founder & Developer
-
-<p align="center">
-  <b>Ankit Choudhary</b><br/>
-  Founder & Developer — Star Dukaan
-</p>
-
-<p align="center">
-  <a href="https://github.com/ankit16x2choudharytech-tech">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
-  </a>
-  <a href="https://leetcode.com/u/ankit16x2choudhary/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
-  </a>
-</p>
+ 
 
 ---
 
