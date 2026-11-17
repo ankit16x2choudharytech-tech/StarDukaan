@@ -1,268 +1,381 @@
- # 🛍️ Star Dukaan
+# 🛍️ Star Dukaan
 
-\<p align="center">
-&#x20; \<img src="public/favicon.svg" alt="Star Dukaan Logo" width="110" />
-\</p>
+<p align="center">
+  <img src="public/favicon.svg" alt="Star Dukaan Logo" width="110" />
+</p>
 
-\<h3 align="center">Smart Business. Simple Management.\</h3>
+<h3 align="center">Smart Business. Simple Management.</h3>
 
-\<p align="center">
-&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=109410&center=true&vCenter=true&width=600&lines=Simplify+Your+Shop+Management;Smart+Billing+%26+Inventory;Manage+Your+Business+Digitally;One+Platform.+Multiple+Possibilities](https://readme-typing-svg.demolab.com?font=Poppins\&weight=600\&size=22\&duration=3000\&pause=1000\&color=109410\&center=true\&vCenter=true\&width=600\&lines=Simplify+Your+Shop+Management;Smart+Billing+%26+Inventory;Manage+Your+Business+Digitally;One+Platform.+Multiple+Possibilities)." alt="Typing SVG" />
-\</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2800&pause=900&color=109410&center=true&vCenter=true&width=650&lines=Simplify+Your+Shop+Management;Smart+Billing+%26+Inventory;Manage+Customers+Effortlessly;Take+Your+Business+Digital" alt="Animated Star Dukaan tagline" />
+</p>
 
-\<p align="center">
-&#x20; A modern shop management platform designed to simplify everyday business operations.
-\</p>
+<p align="center">
+  A modern digital shop management platform designed to simplify everyday business operations for retailers and small businesses.
+</p>
 
-\<p align="center">
-&#x20; \<img src="[https://img.shields.io/badge/Project-Star%20Dukaan-109410?style=for-the-badge](https://img.shields.io/badge/Project-Star%20Dukaan-109410?style=for-the-badge)" />
-&#x20; \<img src="[https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge](https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge)" />
-&#x20; \<img src="[https://img.shields.io/badge/Responsive-Yes-109410?style=for-the-badge](https://img.shields.io/badge/Responsive-Yes-109410?style=for-the-badge)" />
-\</p>
+<p align="center">
+  <a href="https://github.com/ankit16x2choudharytech-tech/StarDukaan">
+    <img src="https://img.shields.io/badge/Project-Star%20Dukaan-109410?style=for-the-badge" alt="Project Star Dukaan" />
+  </a>
+  <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge" alt="In Development" />
+  <img src="https://img.shields.io/badge/Frontend-React%20%2B%20Vite-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React and Vite" />
+  <img src="https://img.shields.io/badge/License-To%20Be%20Decided-lightgrey?style=for-the-badge" alt="License to be decided" />
+</p>
 
----
-
-## 🌟 About Star Dukaan
-
-**Star Dukaan** is a digital shop management platform designed to help small and medium-sized shopkeepers manage their businesses more efficiently.
-
-Running a shop involves many daily activities — managing products, tracking inventory, creating bills, maintaining customer records, and handling transactions.
-
-Managing all these activities manually can be time-consuming and complicated.
-
-Star Dukaan aims to bring these essential business operations together in one simple and organized platform.
-
-\<p align="center">
-&#x20; \<img src="docs/images/star-dukaan-banner.png" alt="Star Dukaan Platform Banner" width="100%" />
-\</p>
+<p align="center">
+  <a href="#-about-the-project">About</a> •
+  <a href="#-features">Features</a> •
+  <a href="#-how-it-works">How It Works</a> •
+  <a href="#-technology-stack">Tech Stack</a> •
+  <a href="#-roadmap">Roadmap</a>
+</p>
 
 ---
 
-## 🎯 Why Star Dukaan?
+<!-- Add your actual banner image at docs/images/star-dukaan-banner.png -->
 
-| Traditional Shop Management | With Star Dukaan                 |
-| --------------------------- | -------------------------------- |
-| Manual billing              | Digital billing                  |
-| Paper-based records         | Organized digital records        |
-| Difficult stock tracking    | Product and inventory management |
-| Scattered customer details  | Centralized customer records     |
-| Manual feedback collection  | Digital feedback workflow        |
+<p align="center">
+  <img src="docs/images/star-dukaan-banner.png" alt="Star Dukaan — Smart Business Management Platform" width="100%" />
+</p>
 
-Our goal is to make digital business management simpler and more accessible.
+## 🌟 About the Project
+
+**Star Dukaan** is a digital shop management platform being developed to help shopkeepers manage their everyday business operations from one organized place.
+
+Traditional retail businesses often depend on paper records, manual calculations, separate registers, and scattered customer information. These methods can make daily operations time-consuming and difficult to organize.
+
+Star Dukaan aims to simplify this experience by bringing essential shop management activities into a single digital platform.
+
+From managing products and inventory to creating bills, maintaining customer records, and sharing invoices, the goal is to make business management easier, faster, and more accessible.
+
+### 💡 Our Mission
+
+To make digital business management accessible to everyday shopkeepers — without unnecessary complexity.
 
 ---
 
-## ✨ Core Features
+## 🎯 The Problem We're Solving
 
-### 🧾 Smart Billing
+Many small and medium-sized businesses still face challenges with their daily operations.
 
-Create and manage customer invoices through an organized billing workflow.
+| Common Business Challenges | Star Dukaan's Goal |
+|---|---|
+| Manual billing and calculations | Organized digital billing |
+| Paper-based product records | Digital product management |
+| Difficult stock tracking | Inventory management |
+| Scattered customer information | Centralized customer records |
+| Time-consuming invoice sharing | Convenient invoice sharing |
+| Limited visibility into business activity | Business reports and insights |
 
-- Product selection and quantity management.
-- Automatic bill calculation.
-- Invoice generation.
-- Transaction record management.
+Star Dukaan is being built to bring these workflows together in one place.
 
-### 📦 Product & Inventory Management
+---
 
-Keep product information organized.
+## ✨ Features
 
-- Add and update products.
-- Manage product prices.
-- Maintain stock quantities.
-- Organize inventory records.
+### 🧾 1. Smart Billing & Invoices
 
-### 👥 Customer Management
+A streamlined billing experience designed to simplify everyday customer transactions.
 
-Maintain customer information and organize purchase records.
+- Create customer bills.
+- Add products and quantities.
+- Calculate bill totals.
+- Generate organized invoices.
+- Maintain transaction records.
 
-- Customer profiles.
-- Contact information.
-- Purchase history.
-- Customer record management.
+### 📦 2. Product & Inventory Management
 
-### 💬 WhatsApp Invoice Sharing
+Keep product information and stock records organized.
 
-Planned WhatsApp integration to make invoice sharing convenient.
+- Add and manage products.
+- Update product details and prices.
+- Maintain available stock quantities.
+- Track inventory changes.
+- Organize product information.
+
+### 👥 3. Customer Management
+
+Build and maintain organized customer records.
+
+- Store customer details.
+- Manage contact information.
+- Maintain purchase records.
+- Access customer information conveniently.
+
+### 💬 4. WhatsApp Invoice Sharing
+
+Planned WhatsApp integration to make invoice communication easier.
 
 - Share invoices with customers.
-- Reduce paper-based communication.
-- Improve customer convenience.
+- Reduce manual communication.
+- Improve the customer experience.
 
-### ⭐ Customer Feedback & Reviews
+### ⭐ 5. Customer Feedback & Reviews
 
 A planned feedback workflow to help shopkeepers understand customer experiences.
 
-- Send feedback requests.
+- Request customer feedback.
 - Collect customer responses.
-- Review customer experiences.
+- Understand customer satisfaction.
 - Improve customer relationships.
 
-### 🔐 Secure Shop Management
+### 📊 6. Business Insights & Reports
 
-Security-focused architecture for protecting shop and customer information.
+Planned reporting capabilities to help shopkeepers understand business activity.
 
-- User authentication.
-- Shop-wise data access.
-- Protected API endpoints.
-- Secure database access.
+- Sales summaries.
+- Transaction reports.
+- Inventory insights.
+- Business performance overview.
 
-> Note: Features are being developed progressively. Planned integrations and functionality are not represented as completed features.
+### 🔐 7. Shop-Wise Management
+
+Designed around the idea that multiple shops should be able to manage their business data independently.
+
+- Individual shop accounts.
+- Shop-specific business records.
+- Authentication and authorization.
+- Protected access to business information.
+
+> **Development note:** Star Dukaan is under active development. Features described as planned or in development should not be considered available until implemented and tested.
 
 ---
 
 ## ⚙️ How It Works
 
-\<p align="center">
-&#x20; \<img src="docs/images/star-dukaan-workflow\.png" alt="Star Dukaan Workflow" width="100%" />
-\</p>
+The intended workflow is designed to keep everyday shop operations simple.
 
-1. **Register Your Shop** — Create an account and set up shop information.
-2. **Add Products** — Organize products, prices, and stock.
-3. **Create Bills** — Generate invoices for customer purchases.
-4. **Manage Customers** — Maintain customer information and records.
-5. **Share Invoices** — Use the planned WhatsApp integration.
-6. **Collect Feedback** — Use the planned customer feedback system.
+<p align="center">
+  <img src="docs/images/star-dukaan-workflow.png" alt="Star Dukaan Business Workflow" width="100%" />
+</p>
 
----
-
-## 🖥️ Platform Preview
-
-\<p align="center">
-&#x20; \<strong>Star Dukaan — Application Demo\</strong>
-\</p>
-
-\<p align="center">
-&#x20; \<img src="docs/images/star-dukaan-demo.gif" alt="Star Dukaan Application Demo" width="100%" />
-\</p>
-
-\<p align="center">
-&#x20; \<strong>Dashboard Preview\</strong>
-\</p>
-
-\<p align="center">
-&#x20; \<img src="docs/images/dashboard.png" alt="Star Dukaan Dashboard" width="90%" />
-\</p>
-
-\<p align="center">
-&#x20; \<strong>Mobile Responsive Preview\</strong>
-\</p>
-
-\<p align="center">
-&#x20; \<img src="docs/images/mobile-preview\.png" alt="Star Dukaan Mobile Preview" width="55%" />
-\</p>
+1. **Create an Account** — A shopkeeper registers and sets up their shop.
+2. **Add Products** — Product details, prices, and stock information are organized.
+3. **Manage Customers** — Customer information is maintained digitally.
+4. **Generate Bills** — Products and quantities are used to prepare invoices.
+5. **Share Invoices** — Planned WhatsApp functionality helps share invoices.
+6. **Review Business Activity** — Future reports and insights help understand business operations.
 
 ---
 
-## 🏪 Who Is It For?
+## 🖥️ Application Preview
 
-Star Dukaan is designed for different types of retail businesses:
+<p align="center">
+  <b>Application Demo</b>
+</p>
+
+<p align="center">
+  <img src="docs/images/star-dukaan-demo.gif" alt="Star Dukaan Application Demo" width="100%" />
+</p>
+
+<p align="center">
+  <b>Dashboard Preview</b>
+</p>
+
+<p align="center">
+  <img src="docs/images/dashboard.png" alt="Star Dukaan Dashboard Preview" width="95%" />
+</p>
+
+<p align="center">
+  <b>Responsive Mobile Experience</b>
+</p>
+
+<p align="center">
+  <img src="docs/images/mobile-preview.png" alt="Star Dukaan Mobile Preview" width="55%" />
+</p>
+
+> Screenshots and demo GIFs are visual placeholders until actual application captures are added to the repository.
+
+---
+
+## 🏪 Who Is Star Dukaan For?
+
+Star Dukaan is being designed for different types of small and medium-sized retail businesses.
 
 - Grocery and general stores.
 - Clothing and fashion shops.
 - Electronics stores.
-- Mobile accessory shops.
+- Mobile and accessories shops.
 - Stationery stores.
-- Other small and medium-sized retailers.
+- Hardware and home utility stores.
+- Other independent retailers.
+
+The long-term goal is to support different shop types through a flexible and easy-to-use platform.
 
 ---
 
 ## 🧠 System Architecture
 
-The planned architecture separates the frontend, backend, and database to improve maintainability and security.
+The planned architecture separates the frontend, backend, authentication, and database responsibilities.
 
 ```mermaid
 flowchart TD
-    A[Shopkeeper / User] --> B[React + Vite Frontend]
-    B --> C[Node.js + Express API]
-    C --> D[Authentication & Authorization]
-    D --> E[Business Logic]
-    E --> F[(MongoDB Atlas)]
-    F --> G[Users]
-    F --> H[Shops]
-    F --> I[Products]
-    F --> J[Customers]
-    F --> K[Invoices]
-    F --> L[Payments]
+    A["Shopkeeper"] --> B["React + Vite Frontend"]
+    B --> C["Node.js + Express API"]
+    C --> D["Authentication & Authorization"]
+    D --> E["Business Logic Layer"]
+    E --> F[("MongoDB Database")]
+
+    F --> G["Users"]
+    F --> H["Shops"]
+    F --> I["Products"]
+    F --> J["Customers"]
+    F --> K["Invoices"]
+    F --> L["Transactions"]
+
+    E --> M["WhatsApp Integration"]
+    E --> N["Reports & Analytics"]
 ```
+
+### Architecture Principles
+
+- Separation of frontend and backend.
+- Centralized server-side business logic.
+- Authentication and authorization.
+- Shop-wise data isolation.
+- Server-side input validation.
+- Secure handling of database credentials.
+- Scalable API design.
+
+> Architecture represents the intended system design. Actual implementation may evolve during development.
 
 ---
 
 ## 🛠️ Technology Stack
 
-| Technology   | Purpose                               |
-| ------------ | ------------------------------------- |
-| React.js     | Frontend development                  |
-| Vite         | Build tooling                         |
-| JavaScript   | Application logic                     |
-| HTML5        | Page structure                        |
-| CSS3         | Styling and responsive design         |
-| Node.js      | Backend runtime (planned/integration) |
-| Express.js   | API development (planned/integration) |
-| MongoDB      | Database (planned/integration)        |
-| Git & GitHub | Version control                       |
+| Technology | Purpose | Status |
+|---|---|---|
+| React.js | User interface | Current frontend |
+| Vite | Frontend tooling | Current frontend |
+| JavaScript | Application logic | Current frontend |
+| HTML5 | Page structure | Current frontend |
+| CSS3 | Styling and responsive layouts | Current frontend |
+| Node.js | Backend runtime | Planned / integration |
+| Express.js | API development | Planned / integration |
+| MongoDB | Business data storage | Planned / integration |
+| Git | Version control | Development |
+| GitHub | Source code hosting | Development |
 
 ---
 
 ## 🗺️ Development Roadmap
 
+Star Dukaan is being developed step by step, with a focus on building a reliable foundation before expanding functionality.
+
+### Phase 1 — Frontend Foundation
+
 - [x] Initial website development
+- [x] Brand identity and visual design
 - [x] Responsive frontend layout
-- [x] Initial branding and design
-- [ ] User registration and authentication
+- [ ] Complete all application pages
+- [ ] Finalize navigation and user experience
+
+### Phase 2 — Core Business Features
+
+- [ ] User registration and login
 - [ ] Shopkeeper dashboard
 - [ ] Product management
 - [ ] Inventory management
-- [ ] Billing and invoice generation
 - [ ] Customer management
-- [ ] MongoDB database integration
+- [ ] Billing and invoice generation
+
+### Phase 3 — Backend & Database
+
+- [ ] Node.js and Express API
+- [ ] Database integration
+- [ ] Authentication and authorization
+- [ ] Shop-wise data isolation
+- [ ] Server-side validation
+- [ ] Error handling and logging
+
+### Phase 4 — Business Integrations
+
 - [ ] WhatsApp invoice sharing
 - [ ] Customer feedback system
-- [ ] Business analytics and reports
+- [ ] Sales reports
+- [ ] Inventory insights
+- [ ] Business analytics
+
+### Phase 5 — SaaS Platform
+
 - [ ] Subscription plans
+- [ ] Shop onboarding
+- [ ] Multi-shop management
+- [ ] Production deployment
+- [ ] Monitoring and performance optimization
 
 ---
 
 ## 🔒 Security & Privacy
 
-Star Dukaan aims to follow security best practices:
+Security is an important part of the Star Dukaan development process, especially because the platform is intended to handle shop and customer information.
 
-- Password hashing.
+The planned security approach includes:
+
+- Secure password hashing.
 - Authentication and authorization.
-- Shop-wise data isolation.
+- Shop-wise data access restrictions.
 - Server-side request validation.
-- Secure database credentials.
 - Protected API endpoints.
+- Database credentials stored outside frontend code.
+- HTTPS for production communication.
+- Rate limiting and abuse prevention.
+- Careful handling of customer information.
 
-Security measures will be implemented and verified as the backend develops.
+Security controls will be implemented and tested as the backend develops.
 
 ---
 
 ## 🌱 Our Vision
 
-We believe every shopkeeper deserves access to simple and useful digital tools.
+We believe that every shopkeeper should have access to useful digital tools, regardless of the size of their business.
 
-Our vision is to build a platform that brings essential business operations together, reduces manual work, and helps shopkeepers manage their businesses with confidence.
+Star Dukaan aims to grow into a practical business management platform that helps retailers organize their daily operations, reduce manual work, and build better customer relationships.
 
-**Star Dukaan — Making everyday business management simpler.**
+We are building with a simple belief:
+
+**Smart Business. Simple Management.**
+
+---
+
+## 🤝 Contributions
+
+Star Dukaan is currently under development.
+
+Suggestions, feedback, and ideas that can improve the platform are welcome.
+
+If you find a bug or have a feature suggestion, you can open an issue in this repository.
 
 ---
 
 ## 👨‍💻 Founder & Developer
 
-\<p align="center">
-&#x20; \<strong>Ankit Choudhary\</strong>\<br/>
-&#x20; Founder & Developer — Star Dukaan
-\</p>
+<p align="center">
+  <b>Ankit Choudhary</b><br/>
+  Founder & Developer — Star Dukaan
+</p>
 
-\<p align="center">
-&#x20; \<a href="[https://github.com/ankit16x2choudharytech-tech](https://github.com/ankit16x2choudharytech-tech)">
-&#x20;   \<img src="[https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge\&logo=github)" />
-&#x20; \</a>
-\</p>
+<p align="center">
+  <a href="https://github.com/ankit16x2choudharytech-tech">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
+  </a>
+  <a href="https://leetcode.com/u/ankit16x2choudhary/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
+  </a>
+</p>
 
 ---
 
-\<p align="center">   \<img src="[https://img.shields.io/badge/Made%20with-❤️-109410?style=flat-square](https://img.shields.io/badge/Made%20with-❤️-109410?style=flat-square)" /> \</p>
+## ⭐ Support the Project
 
-\<h3 align="center">⭐ Star Dukaan\</h3> \<p align="center">Smart Business. Simple Management.\</p>
+If you find the idea interesting, consider giving this repository a star ⭐
+
+Your support helps the project grow.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-❤️-109410?style=flat-square" alt="Made with love" />
+</p>
+
+<h3 align="center">🛍️ Star Dukaan</h3>
+<p align="center"><b>Smart Business. Simple Management.</b></p>
